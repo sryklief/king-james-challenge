@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/king-james-challenge/static/css/main.539dcb41.chunk.css",
+    "main.js": "/king-james-challenge/static/js/main.d1c2558e.chunk.js",
+    "main.js.map": "/king-james-challenge/static/js/main.d1c2558e.chunk.js.map",
+    "runtime-main.js": "/king-james-challenge/static/js/runtime-main.95a9d4fc.js",
+    "runtime-main.js.map": "/king-james-challenge/static/js/runtime-main.95a9d4fc.js.map",
+    "static/css/2.6c0f60ba.chunk.css": "/king-james-challenge/static/css/2.6c0f60ba.chunk.css",
+    "static/js/2.2b4c4027.chunk.js": "/king-james-challenge/static/js/2.2b4c4027.chunk.js",
+    "static/js/2.2b4c4027.chunk.js.map": "/king-james-challenge/static/js/2.2b4c4027.chunk.js.map",
+    "static/js/3.cd03ad88.chunk.js": "/king-james-challenge/static/js/3.cd03ad88.chunk.js",
+    "static/js/3.cd03ad88.chunk.js.map": "/king-james-challenge/static/js/3.cd03ad88.chunk.js.map",
+    "index.html": "/king-james-challenge/index.html",
+    "static/css/2.6c0f60ba.chunk.css.map": "/king-james-challenge/static/css/2.6c0f60ba.chunk.css.map",
+    "static/css/main.539dcb41.chunk.css.map": "/king-james-challenge/static/css/main.539dcb41.chunk.css.map",
+    "static/js/2.2b4c4027.chunk.js.LICENSE.txt": "/king-james-challenge/static/js/2.2b4c4027.chunk.js.LICENSE.txt",
+    "static/media/satrix.2d206d46.png": "/king-james-challenge/static/media/satrix.2d206d46.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95a9d4fc.js",
+    "static/css/2.6c0f60ba.chunk.css",
+    "static/js/2.2b4c4027.chunk.js",
+    "static/css/main.539dcb41.chunk.css",
+    "static/js/main.d1c2558e.chunk.js"
+  ]
+}
