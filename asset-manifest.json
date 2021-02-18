@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/king-james-challenge/static/css/main.539dcb41.chunk.css",
-    "main.js": "/king-james-challenge/static/js/main.d1c2558e.chunk.js",
-    "main.js.map": "/king-james-challenge/static/js/main.d1c2558e.chunk.js.map",
+    "main.js": "/king-james-challenge/static/js/main.a8ae843e.chunk.js",
+    "main.js.map": "/king-james-challenge/static/js/main.a8ae843e.chunk.js.map",
     "runtime-main.js": "/king-james-challenge/static/js/runtime-main.95a9d4fc.js",
     "runtime-main.js.map": "/king-james-challenge/static/js/runtime-main.95a9d4fc.js.map",
     "static/css/2.6c0f60ba.chunk.css": "/king-james-challenge/static/css/2.6c0f60ba.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.6c0f60ba.chunk.css",
     "static/js/2.2b4c4027.chunk.js",
     "static/css/main.539dcb41.chunk.css",
-    "static/js/main.d1c2558e.chunk.js"
+    "static/js/main.a8ae843e.chunk.js"
   ]
 }
