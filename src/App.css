@@ -1,0 +1,76 @@
+
+
+.card {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 450px
+}
+
+.content{
+  display:flex;
+  justify-content: space-evenly;
+  padding-top: 30px;
+}
+
+.text{
+  color: darkgray;
+}
+
+.text-funds{
+  color: darkgray;
+  padding-top: 10px;
+}
+
+.date{
+  font-size: xx-large;
+  color: #007bff;
+}
+
+.funds{
+  font-size: xx-large;
+  color: #007bff;
+}
+
+.value{
+  font-size: xx-large;
+  color: #007bff;
+}
+
+.avail{
+  font-size: xx-large;
+  color: #007bff;
+}
+
+.btn-outline-primary{
+  border-radius: 20px;
+  background-color: rgb(228, 227, 227);
+  border-color: transparent;
+  font-weight: 500;
+}
+
+.invest{
+  color: darkgray;
+  padding-top: 10px;
+}
+
+.invest-date{
+  font-size: xx-large;
+  color: #007bff;
+  font-weight: bold;
+}
+
+.btn-primary{
+  border-radius: 25px;
+  display: flex;
+  margin: auto;
+  font-weight: 700;
+}
+
+.bottom{
+  padding-bottom: 38px;
+}
+
+.trust-btm{
+  padding-bottom: 4px;
+}
